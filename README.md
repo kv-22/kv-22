@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kavya
+- 👋 Hi, I’m Kavya!
 - 👀 I’m interested in software development in AI.
 - 🌱 I’m currently learning ML, DL, and web development.
 - 💞️ I’m looking to collaborate on any fun projects!
